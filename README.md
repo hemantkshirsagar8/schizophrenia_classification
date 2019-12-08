@@ -3,7 +3,7 @@ Diagnose schizophrenia using multi-modal features from MRI scans.
 
 ## Attempt.
 
-I'm attempting to take forward Arno, Alex and Karolis's work from [MLSP 2014 Schizophrenia Classification](https://www.kaggle.com/c/mlsp-2014-mri/overview/winners) with latest available deep learning techniques.
+I'm attempting to take forward Arno, Alex and Karolis's work from [MLSP 2014 Schizophrenia Classification](https://www.kaggle.com/c/mlsp-2014-mri/overview/winners) with latest available Machine learning, Deep Learning techniques using Python.
 
 
 ## Schizophrenia?
