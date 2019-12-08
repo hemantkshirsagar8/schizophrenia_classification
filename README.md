@@ -1,5 +1,4 @@
 # Schizophrenia Classification
-----
 Diagnose schizophrenia using multi-modal features from MRI scans.
 
 ## Attempt.
